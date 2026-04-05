@@ -1,0 +1,2 @@
+- trovare il template di unimore per la scrittura delle tesi magistrali di aie
+- trovare paper che fanno cose simile per capire la loro struttura ( riproduzione di risultati )
