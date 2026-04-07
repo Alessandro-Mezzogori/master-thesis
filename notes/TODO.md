@@ -1,0 +1,6 @@
+- [ ] Chiedere a segreteria i file
+- [ ] Riproduzione
+  - [ ] Trovare se esiste codice online
+  - [ ] riproddure la struttura del modello
+  - [ ] riprodurre il codice per i vari esperimenti
+  - [ ] capire come hanno fatto la valutazione delle molecole
